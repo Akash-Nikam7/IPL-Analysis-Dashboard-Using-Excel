@@ -68,11 +68,5 @@ For questions or feedback, feel free to reach out:
 
 ---
 
-## Acknowledgments
-- Thanks to IPL and ESPN Cricinfo for the data.
-- Shoutout to the Excel and data analytics community for inspiration.
-
----
-
 **Let’s uncover the trends and stats of IPL with this dashboard!**
 
